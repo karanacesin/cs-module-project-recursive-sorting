@@ -31,7 +31,7 @@ def merge_sort(arr):
 
         #merge l and r
     
-    merge_sort(merge(l,r))
+    arr = merge(l,r)
   
         
                   
